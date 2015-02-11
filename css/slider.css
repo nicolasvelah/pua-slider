@@ -1,0 +1,10 @@
+#slide_item{display: none;}
+.slide_image{ overflow: hidden; position: relative;}
+.postbox{padding-top: 20px;}
+.layer{position: absolute; top:0;}
+.image{position:absolute; width: 100%;}
+
+/*FRONT PAGE*/
+
+.slide_visor{overflow: hidden; position: relative;}
+.image-front{position:absolute; width: 100%;}
